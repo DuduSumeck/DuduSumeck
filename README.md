@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá, me chamo Luiz Eduardo!
 
-<!--
-**DuduSumeck/DuduSumeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 25 anos e sou técnico em desenvolvimento de sistemas pelo SENAI de Santa Catarina, local onde conheci e me apaixonei pela linguagem Java.
+Procuro desenvolver meus códigos seguindo as boas práticas, de maneira simples e produtiva, sem reinventar a roda.
+Foi dessa forma que conheci o framework do Spring e desde então é para onde tenho direcionado meus estudos.
 
-Here are some ideas to get you started:
+### Experiência profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
+
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+
+#### Para mais informações
+
+<div>
+<a href="https://www.linkedin.com/in/DuduSumeck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
