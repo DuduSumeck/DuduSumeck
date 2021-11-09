@@ -15,5 +15,5 @@ Foi dessa forma que conheci o framework do Spring e desde então é para onde te
 #### Para mais informações
 
 <div>
-<a href="https://www.linkedin.com/in/DuduSumeck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/luiz-eduardo-sumeck-azevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
